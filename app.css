@@ -16,3 +16,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.myName{
+    background-color: palevioletred;
+    vertical-align: bottom;
+    height: 50px;
+    color: black;
+}
